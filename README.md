@@ -1,6 +1,9 @@
 <h1><img src="icons8-learning-96.png"> _________Let's Fix The Dents In the World,<br>____________________With Programming🐱‍🏍</h1>
-<ul>
-  <h2>Know me</h2>
+<h2>Know me</h2>
+<table >
+  <tr>
+    <th align=left>
+<ul> 
 <li> 🔭 I’m currently working on WEB5 Projects.</li>
 <li> 🌱 I’m currently learning AI&ML.</li>
 <li> 👯 I’m looking to collaborate on MERN based product.</li>
@@ -9,10 +12,20 @@
 <li> 😄 Pronouns: He.</li>
 <li> ⚡ Fun fact:"Programming isn't hard all it takes is efforts and time".</li>
 </ul>
+</th>
+<th>
+<img src="batmanNightPerson.png" height=200px width=160px>
+   </th> 
+</tr>
+</table>
 <hr>
 <!--Technologies and skills-->
-<h2>_____Technologies I Know</h2>
-<table border=0 solid black>
+<table>
+  <tr>
+<th><img src="wolverineLaptop.png" height=150px></th>
+<th width=650px><h2>Technologies I Know</h2></th></tr>
+</table>
+<table>
   <tr>
   <th><img src="icons8-mongodb-48.png" title="MongoDB"></th>
   <th><img src="icons8-express-js-16.png" title="Express"></th>
