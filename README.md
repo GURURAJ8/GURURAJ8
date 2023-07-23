@@ -1,5 +1,4 @@
-<h1><img src="icons8-learning-96.png"> _________Let's Fix The Dents In the World,<br>____________________With Programming🐱‍🏍</h1>
-<h2>Know me</h2>
+<table><tr><td width=15%><img src="icons8-learning-96.png"></td><td><h1>Let's Fix The Dents In the World,With Programming🐱‍🏍</h1></td></tr></table>
 <table >
   <tr>
     <th align=left>
