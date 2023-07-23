@@ -51,9 +51,7 @@
 <hr />
 <h1><img src="icons8-thinking-30.png" alt="thinking">Have a Doudt?Contact me here:</h1>
 <div>
-  <a href=""><img src="icons8-mail-48.png" title="gururajsaraph11@gmail.com"><strong>gururuajsaraph11@gmail.com</strong></a>
   <a href="https://facebook.com/gururaj.saraph.7/"><img src="icons8-facebook-48.png" title="gururajsaraph7"><strong>Facebook</strong></a>
-  <a href="https://twitter.com"><img src="icons8-twitter-48.png" title="gururajsaraph11"><strong>Twitter</strong></a>
    <a href="https://instagram.com/gega_bytes/"><img src="icons8-instagram-48.png" title="gega_bytes"><strong>Instagram</strong></a>
  <a href="https://linkedin.com/in/gururaj-saraph"><img src="icons8-linkedin-48.png" title="gururajsaraph11"><strong>Linked-in</strong></a>
 </div>
