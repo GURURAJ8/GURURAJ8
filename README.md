@@ -31,8 +31,7 @@
   <tr>
     <th align=left>
 <ul> 
-<li> 🔭 I’m currently working on WEB5 Projects.</li>
-<li> 🌱 I’m currently learning AI&ML.</li>
+<li> 🔭 I’m currently working on WEB2 Projects.</li>
 <li> 👯 I’m looking to collaborate on MERN based product.</li>
 <li> 💬 Ask me about M.E.R.N, EJS , GODOT, A-Frame </li>
 <li> 📫 How to reach me: gururajsaraph11@gmail.com</li>
