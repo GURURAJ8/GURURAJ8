@@ -82,5 +82,5 @@
   <a href="mailto:gururajsaraph11@gmail.com"><img src="icons8-mail-48.png" title="gururajsaraph11@gmail.com"><strong>Send Mail</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <a href="https://facebook.com/gururaj.saraph.7/"><img src="icons8-facebook-48.png" title="gururajsaraph7"><strong>Facebook</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
    <a href="https://instagram.com/gega_bytes/"><img src="icons8-instagram-48.png" title="gega_bytes"><strong>Instagram</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
- <a href="https://linkedin.com/in/gururaj-saraph"><img src="icons8-linkedin-48.png" title="gururajsaraph11"><strong>Linked-in</strong></a>
+ <a href="https://www.linkedin.com/in/gururaj-saraph-7165971b1/"><img src="icons8-linkedin-48.png" title="gururajsaraph11"><strong>Linked-in</strong></a>
 </div>
